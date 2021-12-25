@@ -1,5 +1,5 @@
 # password-strength
-Simple Python script that gives passwords a scored based off different complexity factors.
+Simple Python script that gives passwords a score based off different complexity factors.
 
 Optional arguments:
 - --verbose Displays extra information about password score.
